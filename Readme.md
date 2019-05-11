@@ -1,1 +1,1 @@
-Our project aims to create a neural network to detect ships on a satellite image. This task is important to track traffic and increase security against pirates
+The aim of this project is predict airbnb prices in Seattle using the kaggle dataset ( https://www.kaggle.com/airbnb/seattle/home) . 
